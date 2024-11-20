@@ -1,0 +1,30 @@
+[
+    {
+        "chat_id": 1,
+        "type": "private",
+        "participants": [
+            "Gregory",
+            "Kolya"
+        ],
+        "messages": []
+    },
+    {
+        "chat_id": 2,
+        "type": "private",
+        "participants": [
+            "Bob",
+            "Ivan"
+        ],
+        "messages": []
+    },
+    {
+        "chat_id": 3,
+        "type": "group",
+        "participants": [
+            "Alex",
+            "Ivan",
+            "Kolya"
+        ],
+        "messages": []
+    }
+]

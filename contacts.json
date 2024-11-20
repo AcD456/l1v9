@@ -1,0 +1,33 @@
+{
+    "Dima": {
+        "owner": "Dima",
+        "contacts": [
+            "Bob"
+        ]
+    },
+    "Ivan": {
+        "owner": "Ivan",
+        "contacts": [
+            "Alex"
+        ]
+    },
+    "Kolya": {
+        "owner": "Kolya",
+        "contacts": []
+    },
+    "Bob": {
+        "owner": "Bob",
+        "contacts": []
+    },
+    "Gregory": {
+        "owner": "Gregory",
+        "contacts": [
+            "Dima",
+            "Kolya"
+        ]
+    },
+    "Alex": {
+        "owner": "Alex",
+        "contacts": []
+    }
+}
